@@ -4,7 +4,7 @@ Webpage
 
 Hello friend.
 
-I finised coding your front end on traveliteindia.com. 
+I finished coding your front end on traveliteindia.com. 
 Site is identical to original. Look:
 
 ![travelelite](https://image.ibb.co/kouetL/1.png)
